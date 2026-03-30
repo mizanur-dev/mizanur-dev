@@ -190,10 +190,6 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mizanur-dev&show_icons=true&theme=dark&title_color=F0A500&icon_color=F0A500&text_color=94a3b8&border_color=1e293b&border_radius=12&include_all_commits=true&count_private=true" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mizanur-dev&layout=compact&theme=dark&title_color=F0A500&text_color=94a3b8&border_color=1e293b&border_radius=12&langs_count=8" height="170"/>
-
 <br/><br/>
 
 <img width="55%" src="https://github-readme-streak-stats.herokuapp.com?user=mizanur-dev&theme=dark&hide_border=false&background=0d1117&border=1e293b&stroke=1e293b&ring=F0A500&fire=F0A500&currStreakLabel=F0A500&sideLabels=94a3b8&currStreakNum=f8fafc&sideNums=f8fafc&dates=475569&border_radius=12"/>
