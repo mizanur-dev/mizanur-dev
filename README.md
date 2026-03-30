@@ -42,7 +42,7 @@ class MizanurRahman:
 
     name       = "Md. Mizanur Rahman"
     role       = "Junior AI Developer @ Join Venture AI"
-    location   = "Dhaka, Bangladesh 🇧🇩"
+    location   = "Dhaka, Bangladesh"
 
     expertise  = [
         "LangChain · LangGraph · RAG Pipelines",
@@ -158,11 +158,11 @@ class MizanurRahman:
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 &nbsp;
-<a href="[https://twitter.com/MdMizan15698614](https://x.com/Mizanur1692000)">
+<a href="https://x.com/Mizanur1692000">
   <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
 </a>
 &nbsp;
-<a href="[https://sites.google.com/view/mdmizanurrahman/home](https://mizanur-dev.vercel.app/)">
+<a href="https://mizanur-dev.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-F0A500?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio"/>
 </a>
 
