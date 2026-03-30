@@ -64,13 +64,13 @@ class MizanurRahman:
 
     name        = "Md. Mizanur Rahman"
     role        = "Junior AI Developer @ Join Venture AI"
-    location    = "Hazaribagh, Dhaka-1209, Bangladesh 🇧🇩"
+    location    = "Hazaribagh, Dhaka-1209, Bangladesh"
     email       = "mizanur.rahman.1cse@gmail.com"
 
     core_stack  = {
         "AI / LLM"    : ["LangChain", "LangGraph", "RAG", "GenAI", "NLP"],
-        "Vision"      : ["YOLOv11", "MobileNetV3", "OpenCV", "TensorFlow"],
-        "Backend"     : ["Python", "Django REST", "FastAPI", "Node.js", "Next.js"],
+        "Vision"      : ["YOLOv11", "MobileNetV3", "TensorFlow"],
+        "Backend"     : ["Python", "Django REST", "FastAPI"],
         "Vector DBs"  : ["ChromaDB", "Qdrant", "Pinecone"],
         "LLM APIs"    : ["OpenAI", "Gemini", "HuggingFace"],
     }
@@ -114,7 +114,6 @@ me.say_hi()
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
@@ -129,12 +128,7 @@ me.say_hi()
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 <br/>
@@ -161,7 +155,6 @@ me.say_hi()
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 <br/>
 
@@ -177,7 +170,6 @@ me.say_hi()
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
 </div>
@@ -198,9 +190,9 @@ me.say_hi()
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mizanur-dev&show_icons=true&theme=dark&title_color=F0A500&icon_color=F0A500&text_color=94a3b8&bg_color=0d1117&border_color=1e293b&border_radius=12&include_all_commits=true&count_private=true"/>
-&nbsp;
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mizanur-dev&layout=compact&theme=dark&title_color=F0A500&text_color=94a3b8&bg_color=0d1117&border_color=1e293b&border_radius=12&langs_count=8"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mizanur-dev&show_icons=true&theme=dark&title_color=F0A500&icon_color=F0A500&text_color=94a3b8&border_color=1e293b&border_radius=12&include_all_commits=true&count_private=true" height="170"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mizanur-dev&layout=compact&theme=dark&title_color=F0A500&text_color=94a3b8&border_color=1e293b&border_radius=12&langs_count=8" height="170"/>
 
 <br/><br/>
 
@@ -338,8 +330,6 @@ me.say_hi()
 [![Twitter X](https://img.shields.io/badge/Twitter_X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Mizanur1692000)
 &nbsp;
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-F0A500?style=for-the-badge)](https://mizanur-dev.vercel.app/)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mizanur-dev)
 
 <br/><br/>
 
